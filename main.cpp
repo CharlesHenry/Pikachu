@@ -15,7 +15,7 @@ int main()
     cin >> myNum2;
 
     finalNum = myNum1 + myNum2;
-    cout << "You must be crazy mate, " << myNum1 << " + " << myNum2 << " = " << finalNum << "!\n";
+    cout << "You must be crazy man, " << myNum1 << " + " << myNum2 << " = " << finalNum << "!\n";
 
     return 0;
 }
